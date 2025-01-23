@@ -1,0 +1,10 @@
+Hi Bob,
+
+The IBAN for my Swiss bank account is:
+
+CH93 1234 4567 8910 2345 6
+
+Please transfer the funds to that account.
+
+Regards,
+Peter.
